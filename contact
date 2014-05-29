@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel='stylesheet' href='style.css'/>
+	<script src='script.js'></script>
+	<title>Basic & Clean</title>
+</head>
+
+<body>
+    <header class="mainHeader">
+    <img id="logo" src="http://upload.wikimedia.org/wikipedia/commons/5/5b/TopNotch_dutch_logo.jpg" width="120">
+        <div>
+            <nav>
+                <ul>
+                    <li><a class="button" href="index.html">Home</a></li>
+                    <li><a class="button" href="news.html">News</a></li>
+                    <li><a class="button" href="https://github.com/Belgium">GitHub</a></li>
+                    <li><a class="button" href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <div class="mainContent">
+        <div class="Content">
+            <article class="topcontent">
+                <header>
+                    <h2>Contact me</h2>
+                </header>
+
+                <content>
+					<p><b>Skype: </b>belgium.oan<br>
+					<b>USGN: </b>TopNotch</p>
+                </content>
+            </article>
+        </div>
+    </div>
+    
+    <footer class="mainFooter">
+        <p>Copyright 2014 &copy; TopNotch</p>
+    </footer>
+</body>
+</html>
